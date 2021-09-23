@@ -102,6 +102,9 @@ a{
 .blog-artikel p,.blog-artikel a{
 	font-family: ZillaSlab-Regular;
 }
+.blog-artikel a:hover{
+	color: orange;
+}
 .blog-artikel{
 	width: 400px;
 	background: white;
@@ -138,12 +141,13 @@ a{
 #copyright{
 	margin: auto;
 	padding: 5px 0px;
+	font-size: 12px;
 }
 .artikel-di-footer li{
 	padding: 2px 0px;
 }
 .artikel-di-footer li a:hover{
-	color: pink !important;
+	color: orange !important;
 }
 
 /* ukuran iPad Pro*/
