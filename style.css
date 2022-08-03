@@ -152,7 +152,7 @@ a{
 }
 
 /* ukuran iPad Pro*/
-@media screen and (min-width: 1000px) and (max-width: 1199px){
+@media screen and (min-width: 1000px) and (max-width: 1200px){
 	.container{
 		width: 950px;
 	}
